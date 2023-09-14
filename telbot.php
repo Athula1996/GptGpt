@@ -1,6 +1,6 @@
 <?php
-$telegramBotToken = '';
-$openAiApiKey = '';
+$telegramBotToken = '6126309842:AAHoqzr9KLFWuOK4g_07KNXHW35S3c7MvQs';
+$openAiApiKey = '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';
 
 // Get the incoming update data as JSON
 $update = file_get_contents('php://input');
